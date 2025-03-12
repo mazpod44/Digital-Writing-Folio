@@ -5,10 +5,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   margin: 2em;
-  background: #cbf1e4;
+  background: #9FC3CC;
   background-image: linear-gradient(
-    black,
-    pink,
     #cbf1e4
   ); /* change the background colour here - you can specify a solid colour, a gradiant or an image - you can find HEX codes for colours at https://htmlcolorcodes.com/ */
   background-image: cover;
@@ -16,9 +14,9 @@ body {
 
 /* font used for dropdown menu - edit this*/
 h2 {
-  font-family: "Kalam", cursive;
+  font-family: "Press Start 2P", system-ui;
   text-shadow: 1px 1px white;
-  font-size: 30px;
+  font-size: 15px;
   font-style: bold;
   margin-top: 0;
   margin-bottom: 0;
@@ -51,12 +49,13 @@ h5 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 16px;
   border-radius: 10px 10px 10px 10px;
-  background-image: url("https://cdn.glitch.global/1500d7f0-a2c8-489c-88a2-d7899293787b/clouds.jpeg?v=1704340625786");
+  background-image: url("https://cdn.glitch.global/0290ab90-714b-4a8c-b693-030918ab5dd1/pexels-gabriele-donofrio-2150198707-31011991.jpg?v=1741744325558");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
-  font-family: "PT Serif", serif;
+  font-family: "Press Start 2P", system-ui;
   font-size: 1.5em;
+  color: #FF6701
 }
 
 /* Style the card for phone error alerts (do not edit)*/
