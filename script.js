@@ -40,16 +40,16 @@ function addEval(evalText) {
 //think about what use you might have for a dropdown menu: you could have someone select their 'mood' and give them an appropriate song, a bit of good or bad advice, an emoji, etc.
 function dropdownFunction() {
   var x = document.getElementById("subject").value;
-  if (x === "12 March") {
+  if (x === "17 March") {
     addEval("Javascript 101. Function, variable, function x. Script.");
-  } else if (x === "5 March") {
+  } else if (x === "12 March") {
     addEval("🥱");
-  } else if (x === "3 March") {
+  } else if (x === "5 March") {
     addEval("What the fuck is going on?");
-  } else if (x === "TBD") {
-    addEval("🥶");
+  } else if (x === "3 March") {
+    addEval("Yeah, I'm a coder.");
   } else if (x === "TBD 2") {
-    addEval("🌮");
+    addEval("Absolutely not.");
   }
 }
 //end of dropdown function
@@ -57,22 +57,18 @@ function dropdownFunction() {
 //start of haiku function
 //lists of variables: replace all of the 5 and 7 syllable constants in the two arrays below. The more constants you write, the more variety you will have in your poem
 const fiveSyllables = [
-  "jon you are my pet",
-  "garfield was in the oven",
-  "pizza is a dream",
-  "hand over the cheese",
-  "parmesean is life",
-  "i am so hungry",
-  "where did odie go",
-  "get it your damn self",
-  "obey me human",
+  "Coffee pods aren't good",
+  "Pour over. Poor ova",
+  "Your mother loves me",
+  "Put it in compost",
+  
 ];
 const sevenSyllables = [
-  "cheese makes everything better",
-  "the noodles must be wavey",
-  "nothing left to do but sleep",
-  "thinking about lasagne",
-  "yuk, no i don't want salad",
+  "Spill me out",
+  "Short and stout",
+  "Tea is superior",
+  "All hail", 
+
 ];
 //code for haiku function (do not edit)
 const buttonHaiku = document.getElementById("button-haiku");
@@ -156,7 +152,7 @@ textInput.addEventListener("input", changeText);
 //start of code for poem
 
 const subjects =
-    "robots, pilgrims, broken families, displaced animals, right-wing militants, cyborgs".split(
+    "fairies, princesses, elves, seelies, ogre, goblin, dragon".split(
       ","
     ),
   verbs =

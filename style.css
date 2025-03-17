@@ -126,8 +126,8 @@ h5 {
   min-height: 375px;
   border-radius: 10px 10px 10px 10px;
   text-align: center;
-  background-color: green;
-  color: white;
+  background-color: #FFEE8C;
+  color: #f88379;
   font-family: "PT Serif", serif; /* font for <p> text */
   font-size: 14px;
   text-align: center;
@@ -141,7 +141,7 @@ h5 {
   min-height: 375px;
   border-radius: 10px 10px 10px 10px;
   text-align: left;
-  background-color: white;
+  background-color:#f88379;
 }
 
 /* Style the card for the poem function */
