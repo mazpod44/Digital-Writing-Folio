@@ -15,13 +15,13 @@ I am hoping that, in this lab, I will gain further understanding on how to eleva
 **Your Writing**
 - What types of writing do you do (e.g. fiction, nonfiction, poetry)?
 
-Fiction, auto-fiction and poetry.
+I tend to write fiction, auto-fiction and poetry.
 - What tools (or techniques) do you use to write?
 
-I try to use imagery as much as possible, however, my writing has a major focus on internal dialogue, so the portrayal of emotions tends to be central technique I use.
+I try to use imagery as much as possible, however, my writing has a major focus on internal dialogue, so the portrayal of emotions tends to be the central technique I use.
 - Why do you use these tools (or techniques)?
 
 I use these tools because I believe they are the most effective way to express the emotions of characters and the characters' perception of the world around them. Hence, giving the audience a deeper understanding of both the characters and the context in which they exist.
 - How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
 
-Because of my focus on internal dialogue, my writing tends to lose dimension when the characters are interacting externally, whether that be through dialogue or action. 
+Because of my focus on internal dialogue, my writing tends to lose dimension when the characters are interacting externally, whether that be through dialogue or action. However, they allow my readers' connection with the characters to flourish. It's easy for them to find relatability, often through internal dialogue by way of the character.
