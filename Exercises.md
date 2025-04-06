@@ -26,3 +26,12 @@ I use these tools because I believe they are the most effective way to express t
 - How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
 
 Because of my focus on internal dialogue, my writing tends to lose dimension when the characters are interacting externally, whether that be through dialogue or action. However, they allow my readers' connection with the characters to flourish. It's easy for them to find relatability, often through internal dialogue by way of the character.
+
+## Electronic Literature Collection
+**Carving in Possibilities by Deena Larsen Questions**
+- What makes the work a piece of digital writing?
+
+Deena Larsen's 'Carving in Possibilities' is an example of digital writing because it uses an interactive interface to engage readers in a unique way. The piece includes a blurred image of Michelangelo's David, which gradually becomes clearer as the user moves their mouse across the screen. This movement mimicks the act of carving, accompanied by sound effects that mimic the chisel's impact. The text itself is displayed in fragments, triggered by the user's interaction with the image.
+It is this combination of visual, auditory, and textual elements, along with the interactive nature of the piece that makes 'Carving in Possibilities' a work of electronic literature.
+
+-  Personal response. Whether you liked it, how it made you feel etc. 
