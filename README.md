@@ -1,1 +1,1 @@
-ReadMe files can be used to add descriptions of your project. You can edit this text - no need for special formatting or coding.
+Maya Dempster is a Melbourne based writer, specialising in autofiction, fiction and poetry, currently completing a Bachelor of Arts in Creative Writing at RMIT. Maya bases much of her work around the queer experience, often drawing on personal experiences to inspire fiction. Her work is featured in a digital publication of 'Refractions' at the Bowen Street Press. 
