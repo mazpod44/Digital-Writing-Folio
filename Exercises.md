@@ -34,4 +34,6 @@ Because of my focus on internal dialogue, my writing tends to lose dimension whe
 Deena Larsen's 'Carving in Possibilities' is an example of digital writing because it uses an interactive interface to engage readers in a unique way. The piece includes a blurred image of Michelangelo's David, which gradually becomes clearer as the user moves their mouse across the screen. This movement mimicks the act of carving, accompanied by sound effects that mimic the chisel's impact. The text itself is displayed in fragments, triggered by the user's interaction with the image.
 It is this combination of visual, auditory, and textual elements, along with the interactive nature of the piece that makes 'Carving in Possibilities' a work of electronic literature.
 
--  Personal response. Whether you liked it, how it made you feel etc. 
+-  Personal response. Whether you liked it, how it made you feel etc.
+
+I found Carving in Possibilities to be quite interesting. The interactive nature of the piece creates a sense of involvement, as though you're not just a reader but an active participant in the narrative and the art itself. In an attemot tobe an active reader, I took different fragments from the piece and created an adaptation using these. It challenged me to see how both author and reader can interact and collectively create art. 
