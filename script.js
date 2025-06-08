@@ -48,7 +48,7 @@ function dropdownFunction() {
     addEval("What the fuck is going on?");
   } else if (x === "3 March") {
     addEval("Yeah, I'm a coder.");
-  } else if (x === "TBD 2") {
+  } else if (x === "April Something") {
     addEval("Absolutely not.");
   }
 }
@@ -101,26 +101,26 @@ const textInput = document.getElementById("text-input");
 //search function constants
 //play with Google search function to come up with search terms most relevant to you. Think about how these search terms tell a story. Replace all of the placeholder text below (phrases in red font) with search terms of your own. If you keep the phrases organised alphabetically, you can ensure you have enough results for each word.
 const words = [
-  "art of war free download",
-  "ask izzy",
-  "australian family law issues in the news",
+  "am I okay?",
+  "are you supposed to feel like this",
+  "all the time? Really?",
 
-  "barrister vs lawyer australia",
-  "barrister vs solicitor",
-  "bulk billed therapy",
+  "biblically tired",
+  "bored constantly",
+  "bulk billed doctors near me",
 
-  "can i seek to vary my family court order",
-  "ccs has no cctv",
-  "childcare how expensive",
+  "continuous sadness ongoing symptoms",
+  "chai latte best recipe",
+  "children get mental illness from parents?",
 
-  "delete search history",
-  "delusional jealousy",
-  "dv stats australia",
+  "don't be ridiculous",
+  "deep deep darkness",
+  "darkness hark! darkness",
 
-  "earliest memories as a child",
-  "emotional manipulation signs",
+  "ever growing dread",
+  "emotional support dogs",
 
-  "fridge magnets",
+  "fuck yourself",
 ];
 //search function (do not edit)
 function changeText(e) {
@@ -152,15 +152,15 @@ textInput.addEventListener("input", changeText);
 //start of code for poem
 
 const subjects =
-    "fairies, princesses, elves, seelies, ogre, goblin, dragon".split(
+    "fairies, princesses, elves, seelies, ogres, goblins, dragons".split(
       ","
     ),
   verbs =
-    "wander,search, cross, kneel to pray in, avoid, survey, sneak across, hide in".split(
+    "wander, searches, cross, kneel at, avoid, hide in".split(
       ","
     ),
   objects =
-    "the barren plains,the wilted grasslands, vast wastelands,wildernesses unknown,languishing caravan parks, arid deserts, military bunkers, valleys of ash and bone".split(
+    "the high seas, hobbit holes, van life parking spots, hollow tree".split(
       ","
     );
 // set up the counter
