@@ -1,4 +1,4 @@
-# Week One 
+![image](https://github.com/user-attachments/assets/ad917e32-0c3b-4f05-86e8-c45b8ba85a8e)# Week One 
 03.02.2025
 ## Initial Thoughts/Reflection
 <p> Today was a very overwhelming introduction to coding. However, i'm confident that it will become easier as we go. It seems that it will be something that I slowly develop my knowledge on and it will eventually become far simpler for me. </p>
@@ -37,3 +37,20 @@ It is this combination of visual, auditory, and textual elements, along with the
 -  Personal response. Whether you liked it, how it made you feel etc.
 
 I found Carving in Possibilities to be quite interesting. The interactive nature of the piece creates a sense of involvement, as though you're not just a reader but an active participant in the narrative and the art itself. In an attemot tobe an active reader, I took different fragments from the piece and created an adaptation using these. It challenged me to see how both author and reader can interact and collectively create art. 
+
+The Fugue Book by Ton Ferret
+
+This work is a multimedia-driven, interactive piece that blends text and visuals to create a dynamic reading environment. Digital writing often incorporates nonlinear storytelling, interactivity, and algorithmic elements, and The Fugue Book appears to embrace these qualities by offering a unique way to engage with literature beyond traditional print. 
+
+I find The Fugue Book fascinating because it challenges conventional reading experiences. The interplay between different media elements evokes emotions in unexpected ways, making the piece feel immersive and thought-provoking. 
+
+The First Draft of the Revolution by Emily Short and Liza Daly
+
+This work is an interactive epistolary novel that allows readers to engage with the process of letter-writing. Unlike traditional fiction, this piece doesn’t use fixed text, instead inviting readers to rewrite and refine the letters, shaping the narrative. It uses technology to create this immersive experience that would not be possible in print.
+I find First Draft of the Revolution fascinating because it transforms the act of writing into an interactive experience. The ability to edit and refine letters makes the reader an active participant in the story, mirroring the way real-life communication evolves through revision.
+
+A Modern Ghost by Artemio Morales
+
+It combines photo illustrations, an original soundtrack, and nonlinear storytelling, making it an immersive multimedia experience. 
+I find its atmospheric visuals and reflective narrative compelling. The interactive elements enhance the emotional depth, making it feel personal and haunting. 
+
