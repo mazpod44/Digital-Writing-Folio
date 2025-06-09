@@ -135,4 +135,31 @@ The images and highlighted words should evoke emotions that contribute to the pi
 Do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
 I need to develop the story further; I need to finish writing the piece mainly. I will do this by mapping out the general ideas of the piece and the different themes of the vignettes. 
 
+# Week Eight
+**Mapping Ideas**
+
+**Scope and Scale**
+How many words will it be?
+350ish words
+
+How many screens?
+6-8
+
+What do you need to do on a week-by-week basis (is this realistic?)
+Complete the readings and write at least on vignette a week.
+
+What is the tech that might get you stuck? what is the workaround/Plan B?
+Images are difficult to add, I will need to find the correct code and learn to use it properly.
+
+**First Draft Mind Map**
+
+I used Miro Board to map the general idea of my final piece. I wanted to use squares to show a sequence of passages on Twine. Attached to each of them is their accompanying text extract, visual, theme and interaction. This will help me guide the flow of my piece. 
+
+https://miro.com/app/board/uXjVIy20Lhs=/?share_link_id=113707671719 
+
+**Final Draft Mind Map**
+
+I used Miro Board once again to map the final concept for my piece. Instead of having six total passages, I decided to design seven. In the initial stages of the piece, I had only planned to use the mesostic poem I created in class as the whole piece. However, after further planning and, more specifically, the second assignment, I realised there needed to be more content for me to fully express the longing I wanted. Another piece of feedback that warranted change, was the use of the keyholes. I initially created them to use as a linking gateway between passages; however, I realised that they didn’t suit the further progressed idea of the piece. So, those are no longer included in the Miro board, or my Twine project. Instead of the interaction being the keyholes, I have used a chosen word from each vignette of the poem to act as the passageway. I am hoping that the ideas on my board are clear and that they can come to fruition. 
+
+https://miro.com/app/board/uXjVIqt_sHc=/?share_link_id=427996779897
 
