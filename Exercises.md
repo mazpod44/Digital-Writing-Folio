@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/81589ea5-ef27-4d24-aaa9-0edfae50a98c)# Week One 
+# Week One 
 03.02.2025
 ## Initial Thoughts/Reflection
 <p> Today was a very overwhelming introduction to coding. However, i'm confident that it will become easier as we go. It seems that it will be something that I slowly develop my knowledge on and it will eventually become far simpler for me. </p>
