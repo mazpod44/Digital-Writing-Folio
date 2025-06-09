@@ -24,6 +24,13 @@ These distinctions highlight electronic literature’s evolving nature, demandin
 
 I thought Kissing the Steak: The Poetry of Text Generators was a fascinating piece on the poetry and potential of text generators. One of the most compelling aspects of Funkhouser’s discussion is the way he poses text generators not as tools but collaborators. This piece makes you rethink what poetry can be in the digital age, especially considering the new notions of authorship. I like that the piece suggests the answer to the question of whether text generators can create poetry, is completely nuanced and maybe that’s the beauty of it. Can a machine ever be a poet? Is poetry more than just words on a page? 
 
+# Week Three 
+**Extra Reading**
+
+Reading Beyond Taxonomy:Digital Poetics and the Problem of Reading by Memmott (2006) alongside Motte's (1986) introduction to Oulipo: A Primer of Potential Literature really made me think about the way I interact with texts. Memmott argues that digita literature isn't meant to be neat and categorised, its meant to be chaotic, interactive and constantly changing and evolving. The idea of clicking and engaging instead of passively reading resonated with me, because it made me think about how we already consume so much media just like that- jumping between links on a website, skimming a page, scrolling on a video, following every thread. It makes me wonder, are we perhps already participating in digital poetry without realising it. 
+
+Oulipo, I suppose, takes the opposit eapproach, rigi constraints are a way to unlock creaticity. Writing a novel without the letter e or creating a poem using a maths formula forces you to find meaning in limitation. At first, I though Oulipo seemed restrictive, but the more I think about it, the more creative I consider it to be. Both approaches challenge traditional storytelling, so they make reading an active, rather than passive, process, whcih I have really come to enjoy and appreciate. 
+
 # Week Five
 
 Folio Requirement Reading
@@ -40,12 +47,6 @@ Hypertext literature, as explored by Aarseth (1997), alters conventional notions
 Furthermore, ergodic literature questions genre. Due to its non-linearity, hypertext is not defined by its content or themes, it is an approach to structuring text that prioritises reader agency (Aarseth, 1997). This changes the boundaries between fiction and non-fiction, author and audience, etc., making hypertext more of an aesthetic method rather than a traditional genre. 
 
 Aarseth’s concept is relevant in the digital age of today, where interactive storytelling, gameplay, and digital writing continue to evolve with new programs and software. By prioritising a reader’s active engagement, hypertext focuses on agency and interactivity, offering an experience distinct from conventional narrative storytelling.
-
-**Week Three Extra Reading**
-
-Reading Beyond Taxonomy:Digital Poetics and the Problem of Reading by Memmott (2006) alongside Motte's (1986) introduction to Oulipo: A Primer of Potential Literature really made me think about the way I interact with texts. Memmott argues that digita literature isn't meant to be neat and categorised, its meant to be chaotic, interactive and constantly changing and evolving. The idea of clicking and engaging instead of passively reading resonated with me, because it made me think about how we already consume so much media just like that- jumping between links on a website, skimming a page, scrolling on a video, following every thread. It makes me wonder, are we perhps already participating in digital poetry without realising it. 
-
-Oulipo, I suppose, takes the opposit eapproach, rigi constraints are a way to unlock creaticity. Writing a novel without the letter e or creating a poem using a maths formula forces you to find meaning in limitation. At first, I though Oulipo seemed restrictive, but the more I think about it, the more creative I consider it to be. Both approaches challenge traditional storytelling, so they make reading an active, rather than passive, process, whcih I have really come to enjoy and appreciate. 
 
 # Week Six
 
