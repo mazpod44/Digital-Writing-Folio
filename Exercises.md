@@ -1,4 +1,4 @@
-# Week One 
+![image](https://github.com/user-attachments/assets/81589ea5-ef27-4d24-aaa9-0edfae50a98c)# Week One 
 03.02.2025
 ## Initial Thoughts/Reflection
 <p> Today was a very overwhelming introduction to coding. However, i'm confident that it will become easier as we go. It seems that it will be something that I slowly develop my knowledge on and it will eventually become far simpler for me. </p>
@@ -76,4 +76,38 @@ I’m still not very confident in my coding abilities, however, I feel like I ha
 
 Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
 I think it’s just made me appreciate how difficult it is to do some of the simplest changes within a digital piece. I realise now that a simple change of font, for example, takes much more than clicking the times new roman tab underneath a font button. It requires a change in the stylesheet, and you must find the specific code for the font. Same goes for colour, not clicking on a wheel, but having to find the exact hex code and entering that into the stylesheet correctly. 
+
+# Week Three
+
+**To Make a Dadaist Poem**
+I used an article titled Mushroom cook says fear of estranged husband’s actions led to phone resets; details dumping food dehydrator at local tip after fatal lunch, from the Erin Patterson trial currently ongoing. 
+
+https://dawn-flannel-suit.glitch.me 
+https://github.com/mazpod44/dadaist-poem 
+
+**Lipograms**
+Chosen constraint: The letter e.
+
+A soft wind sways amid blooms of joyous light
+Nights pass, days too
+Birds hum, singing songs of a warm kiss
+
+**Mesostics**
+There’s not enough of me to be enough. I search the field. God, make me a flower so I can be beautiful. Please, Lord, make me a flower—even if it’s only for a moment. Care for me before I am blown away. I want to be wished upon.
+Word: Incandescent
+
+**N+7**
+Replacing every noun with the seventh noun that is found after it in a dictionary, using an extract from the song ‘Better Than Me’ by Blood Orange. 
+
+Original: 
+Know my worth and fake the blame
+But I know she's better than me
+Wait your turn and change your ways
+But I know he's better than me
+
+N+7 Version:
+Know my wound and fake the blast
+But I know she’s better than me
+Wait your twist and change your wealth
+But I know he's better than me. 
 
