@@ -24,7 +24,7 @@ These distinctions highlight electronic literature’s evolving nature, demandin
 
 I thought Kissing the Steak: The Poetry of Text Generators was a fascinating piece on the poetry and potential of text generators. One of the most compelling aspects of Funkhouser’s discussion is the way he poses text generators not as tools but collaborators. This piece makes you rethink what poetry can be in the digital age, especially considering the new notions of authorship. I like that the piece suggests the answer to the question of whether text generators can create poetry, is completely nuanced and maybe that’s the beauty of it. Can a machine ever be a poet? Is poetry more than just words on a page? 
 
-Week Five
+# Week Five
 
 Folio Requirement Reading
 
