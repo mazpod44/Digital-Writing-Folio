@@ -163,3 +163,22 @@ I used Miro Board once again to map the final concept for my piece. Instead of h
 
 https://miro.com/app/board/uXjVIqt_sHc=/?share_link_id=427996779897
 
+# Final Reflection
+
+Initially, I was drawn to this studio because of my interest in the developing world of writing and the new digital aspects of it. I honestly wasn’t prepared for my knowledge to be expanded so widely. I wanted to explore how fiction could become interactive through the digital landscape. Particularly in relation to poetry, I wanted to see where the boundaries are for storytelling in this modern world. This studio felt like the perfect place to do so. 
+
+Before this studio, I had little to no knowledge of digital writing, outside of traditionally linear storytelling (plus some little-kid JavaScript in primary school). I understood that fiction could involve non-linear storytelling and had room for reader agency but had no idea how this was executed with the use of digital tools like Twine, or coding elements that we’ve learnt. 
+
+I was eager to learn how digital tools could enhance the expression of my ideas and deepen the engagement with readers thematically. I wanted to understand how coding contributes to both the aesthetic and functional aspects of e-literature.
+I was nervous about the technical aspects, especially coding. I wasn’t sure if I was going to be able to grasp the ideas of JavaScript and CSS, never mind executing them effectively. And I was quite worried that my end piece wouldn’t translate in the digital context because of my lack experience in the space. 
+
+The hands-on approach in class was also quite impactful. Seeing how small adjustments or additions in code can completely alter a piece made me appreciate the difficulty of digital writing. Our discussions about interactivity and reader agency stood out. They made me really consider and reshape how I thought about it all. 
+
+In the studio, I expanded my understanding of the digital side of writing. I am now able to recognise that even simple changes and aesthetic choices, like font or colour, require a lot of intention and technical coding. My grasp on the back end of the digital space has certainly expanded.
+
+As for my final project, Incandescent is inspired by themes of identity, transformation, and longing. It draws from my own experiences and broader topics, reflecting on feelings of impermanence and the quiet yearning for meaning. The poem’s vignettes, separated by each passage, are intended to mirror the way personal growth unfolds, gradually, unexpectedly, and beautiful. But I also think the piece is merely the beginning of a collection of feelings, because they are technically yet to be resolved. Although there is finality in the poem, it is yet to reflect a solution to the yearning, only contentment within it. 
+
+I am applying everything I have learnt about Twine, from structuring narratives, do designing an immersive reading experience through digital components/aesthetics. The culmination of text, imagery and navigation is central to my idea of emotional transformation. So learning about coding images into the piece has been vital for its completion. 
+
+I don’t think I will continue with interactive fiction outside of the studio. I enjoyed the outcome of the piece and select experiences from the studio, however, it’s not how I see my writing being developed. But I do want to explore my writing in a way that feels fluid and natural, so I’m always open to continue exploring interactive fiction and the digital writing landscape. 
+I think learning and experimenting with interactive fiction has influenced how I approach writing. It has certainly reshaped the way I think about reader engagement and agency, and it has given the eyes to view how a piece can unfold in layers rather than always being linear. I am now far more conscious of how form and function combine to evoke emotion and meaning within a text. 
