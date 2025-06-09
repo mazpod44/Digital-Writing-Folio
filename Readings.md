@@ -19,3 +19,9 @@ Building on Hayles' (2007) definition, electronic literature diverges from print
 •	Archiving Challenges: As Rosario et al. (2021) note, electronic texts are ephemeral, requiring active curation to survive.
 These distinctions highlight electronic literature’s evolving nature, demanding new approaches to reading and interpretation.
 
+# Week Two
+**Extra Reading**
+
+I thought Kissing the Steak: The Poetry of Text Generators was a fascinating piece on the poetry and potential of text generators. One of the most compelling aspects of Funkhouser’s discussion is the way he poses text generators not as tools but collaborators. This piece makes you rethink what poetry can be in the digital age, especially considering the new notions of authorship. I like that the piece suggests the answer to the question of whether text generators can create poetry, is completely nuanced and maybe that’s the beauty of it. Can a machine ever be a poet? Is poetry more than just words on a page? 
+
+
