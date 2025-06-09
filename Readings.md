@@ -63,7 +63,9 @@ How does the work make you reflect on your own ideas and what you might do for y
 These stories highlight the impact immersive/non-traditional storytelling can have. And I have realised I have to think about how the imagery can reinforce emotions and shift meaning dependent on the reader. I think I need to blend my personal experience more with the general themes in order to maintain connection with the audience. I am thinking of using a combination of the styles of 'snow season' and 'house on the hill'. I think that it would be interesting to have someone be moving through a space, but instead of a physical movement - like if I were to use bitsy- I would instead use images with text overlaid like in snow season. And instead of a piece of the text being used as the key to move on, I want to use an image/drawing of a keyhole. I think it would be really cool. 
 
 # Week Six
-**Extra Reading**
+**Extra Readings**
 
 Montfort's chapter Riddles in Twisty Little Passages explores how riddles serve as a foundation for interactive fiction. He argues that riddles are more than what they seem- duh? - they require active engagement, interpretation and problem-solving. 
 Both riddles and interactive fiction challenge us as readers to think beyond surface meaning and they reward us with resolution. Its fascinating to see how ancient literary forms influence digital storytelling too, the way we interact with narratives has always been growing and developing since the beginning of time. 
+
+Emily Short's Savoir-Faire explores magic as a system of logic. Set in 18th century France, the story follows a nobleman using magical connections to solve puzzles and unover secrets. I find it fascinating how the game treats magic not as mystic and vague but as a structured, rule-based mechanic- almost like computer coding! I think it is a really clever blend of narrative and interactive fiction, I belive this contributes to Oulipo's idea of constraints enhancing rather than limiting. 
