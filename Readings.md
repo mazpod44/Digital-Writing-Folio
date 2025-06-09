@@ -62,3 +62,8 @@ I think meaning changes depending on perspective. House on the Hill begins as so
 How does the work make you reflect on your own ideas and what you might do for your own piece?
 These stories highlight the impact immersive/non-traditional storytelling can have. And I have realised I have to think about how the imagery can reinforce emotions and shift meaning dependent on the reader. I think I need to blend my personal experience more with the general themes in order to maintain connection with the audience. I am thinking of using a combination of the styles of 'snow season' and 'house on the hill'. I think that it would be interesting to have someone be moving through a space, but instead of a physical movement - like if I were to use bitsy- I would instead use images with text overlaid like in snow season. And instead of a piece of the text being used as the key to move on, I want to use an image/drawing of a keyhole. I think it would be really cool. 
 
+# Week Six
+**Extra Reading**
+
+Montfort's chapter Riddles in Twisty Little Passages explores how riddles serve as a foundation for interactive fiction. He argues that riddles are more than what they seem- duh? - they require active engagement, interpretation and problem-solving. 
+Both riddles and interactive fiction challenge us as readers to think beyond surface meaning and they reward us with resolution. Its fascinating to see how ancient literary forms influence digital storytelling too, the way we interact with narratives has always been growing and developing since the beginning of time. 
