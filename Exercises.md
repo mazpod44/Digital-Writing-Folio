@@ -53,3 +53,27 @@ I find First Draft of the Revolution fascinating because it transforms the act o
 
 It combines photo illustrations, an original soundtrack, and nonlinear storytelling, making it an immersive multimedia experience. 
 I find its atmospheric visuals and reflective narrative compelling. The interactive elements enhance the emotional depth, making it feel personal and haunting. 
+
+# Week Two
+
+**Exercise- Coding Playground**
+
+https://mazpod44.glitch.me 
+https://github.com/mazpod44/coding-playground
+
+What aspects of the remix are the same?
+I have kept the base of the coding playground. I did this to ground the site in something tangible and give myself some leeway to learn the ropes and understand how to remix a site and utilise glitch confidently. All of the cards have stayed the same and I have used the main coding aspects of all of them, only changing the content.
+What aspects of the remix are different?
+As part of the remix, I edited all the writing within the playground. I changed the font on the main title; I added images of my own through the assets tab and I altered the colouring and style on some cards through the style CSS sheet. I also decided to go against the rules of the poems initially in the playground (didn’t do haiku etc.).
+
+Is the remix successful (why or why not)?
+I think the remix was successful as I was able to alter all the components to create my own poems, styles, variations and visuals. However, I believe the end product could have been more successful as I had minor issues with creating the exact presentation I wanted. 
+
+**Reflection**
+
+How do you feel about coding now versus how you felt going into this in Week 1?
+I’m still not very confident in my coding abilities, however, I feel like I have expanded my scope of what I believe to be possible for me to complete. I’m still not confident, but I appreciate that its possible for me to learn more than I expected. 
+
+Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
+I think it’s just made me appreciate how difficult it is to do some of the simplest changes within a digital piece. I realise now that a simple change of font, for example, takes much more than clicking the times new roman tab underneath a font button. It requires a change in the stylesheet, and you must find the specific code for the font. Same goes for colour, not clicking on a wheel, but having to find the exact hex code and entering that into the stylesheet correctly. 
+
