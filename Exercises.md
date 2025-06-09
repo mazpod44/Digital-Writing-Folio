@@ -111,3 +111,28 @@ But I know she’s better than me
 Wait your twist and change your wealth
 But I know he's better than me. 
 
+# Week Seven
+**Reflection on Feedback and Peer presentations**
+
+What are the themes and ideas is your piece is exploring?
+The themes that my piece is exploring are identity, transformation and longing.  
+
+What literary genre or style are you drawing on? Is it narrative driven or more poetic and associative? Or essayistic?
+I am drawing on a poetic and associative style for this piece. The piece is driven by a poetic transformation that is progressing as the reader discovers new fragments.
+
+Succinctly: What is the story? Or what do you want to express/communicate through this piece?
+The story is one of longing to belong and eventually becoming comfortable with ones fragility and therefore losing fear of it.
+
+What do you wish their reader to understand of feel?
+The intent is to connect with readers who resonate with themes of introspection, transformation, and existential longing. It speaks to those who seek meaning in impermanence, anyone who has felt small in a vast world. The poem invites reflection, making it particularly impactful for individuals drawn to meditative or evocative literature.
+
+What drives the reader’s momentum through the piece?
+I’m hoping that the desire to see the progression of the writer will drive the momentum through the piece.
+
+How does the literary and the digital drive the momentum together with the pieces thematic?
+The images and highlighted words should evoke emotions that contribute to the piece. And you’re able to move through the space while focusing on those emotions.
+
+Do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
+I need to develop the story further; I need to finish writing the piece mainly. I will do this by mapping out the general ideas of the piece and the different themes of the vignettes. 
+
+
