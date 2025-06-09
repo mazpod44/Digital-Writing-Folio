@@ -69,3 +69,7 @@ Montfort's chapter Riddles in Twisty Little Passages explores how riddles serve 
 Both riddles and interactive fiction challenge us as readers to think beyond surface meaning and they reward us with resolution. Its fascinating to see how ancient literary forms influence digital storytelling too, the way we interact with narratives has always been growing and developing since the beginning of time. 
 
 Emily Short's Savoir-Faire explores magic as a system of logic. Set in 18th century France, the story follows a nobleman using magical connections to solve puzzles and unover secrets. I find it fascinating how the game treats magic not as mystic and vague but as a structured, rule-based mechanic- almost like computer coding! I think it is a really clever blend of narrative and interactive fiction, I belive this contributes to Oulipo's idea of constraints enhancing rather than limiting. 
+
+# Week Seven 
+
+Ensslin's The Paradox of Poetic Gaming explores how literary games blur the line between structure and artistic expression. In Evidence of Everything Exploding, you're forced to engage with fragmented, poetic elements rather than being guided throguh a clear story, making a subjective experience. This approach highlights how games can be more than entertainment, they can be experimental and really quite though-provoking. 
