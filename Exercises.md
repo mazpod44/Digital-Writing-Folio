@@ -54,7 +54,7 @@ I find First Draft of the Revolution fascinating because it transforms the act o
 It combines photo illustrations, an original soundtrack, and nonlinear storytelling, making it an immersive multimedia experience. 
 I find its atmospheric visuals and reflective narrative compelling. The interactive elements enhance the emotional depth, making it feel personal and haunting. 
 
-**Week One and Three- Extra Readings**
+# Week One and Three- Extra Readings 
 
 Electronic literature is a significant shift from traditional print text, it utilises computer processes, interactivity, and multimedia elements to create immersive experiences. Works such as Taroko Gorge, The Gathering Cloud, First Draft of the Revolution, and Shade exemplify different aspects of electronic literature, offering differing ways of storytelling. 
 
